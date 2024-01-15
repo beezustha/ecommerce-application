@@ -6,6 +6,7 @@ export default {
     extend: {
       fontFamily: {
         headerStyle: ['"Eczar"', "sans-serif"],
+        paraFont: ['"Poppins"', "sans-serif"],
         // Add more custom font families as needed
       },
     },
